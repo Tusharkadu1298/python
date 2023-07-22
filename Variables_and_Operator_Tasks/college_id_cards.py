@@ -1,0 +1,18 @@
+#2. Imagine you are working at a college, create a form where you ask about different details from the user in order to create their id card.
+
+print("FORM DETAILS FOR ADMISSION")
+name = input("enter your name :-- ")
+dob = input("enter your date of birth :-- ")
+bg = input("enter your blood group :-- ")
+pn = input("enter your phone number :-- ")
+adress = input("enter your adress :-- ")
+stream = input("enter your stream :-- ")
+print()
+print("-"*50)
+print("Student's name :-- ", name)
+print("Date of Birth :-- ", dob)
+print("Blood Group :-- ", bg)
+print("Contact numbers :-- ", pn)
+print("Home adress :-- ", adress)
+print("Stream :-- ", stream)
+print("-"*50)
